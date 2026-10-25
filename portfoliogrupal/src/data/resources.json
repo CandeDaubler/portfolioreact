@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Java", "type": "Lenguaje", "description": "Lenguaje orientado a objetos usado en aplicaciones y servicios backend." },
+  { "id": 2, "name": "Spring Boot", "type": "Framework", "description": "Herramientas para crear aplicaciones Java y servicios web." },
+  { "id": 3, "name": "JavaScript", "type": "Lenguaje", "description": "Lenguaje que agrega interactividad a las aplicaciones web." },
+  { "id": 4, "name": "React", "type": "Framework", "description": "Biblioteca para construir interfaces mediante componentes." },
+  { "id": 5, "name": "React Router", "type": "Herramienta", "description": "Navegación por rutas para aplicaciones React." },
+  { "id": 6, "name": "HTML5", "type": "Tecnología", "description": "Estructura semántica para contenidos web." },
+  { "id": 7, "name": "CSS3", "type": "Tecnología", "description": "Estilos, animaciones y diseño adaptable para la web." },
+  { "id": 8, "name": "Vite", "type": "Herramienta", "description": "Servidor de desarrollo y empaquetador para frontend." },
+  { "id": 9, "name": "Git", "type": "Herramienta", "description": "Control de versiones para colaborar y seguir cambios." },
+  { "id": 10, "name": "GitHub", "type": "Herramienta", "description": "Plataforma para alojar repositorios y trabajar en equipo." },
+  { "id": 11, "name": "REST API", "type": "Concepto", "description": "Interfaz HTTP para intercambiar recursos entre sistemas." },
+  { "id": 12, "name": "SQL", "type": "Lenguaje", "description": "Lenguaje para consultar y gestionar bases de datos relacionales." },
+  { "id": 13, "name": "PostgreSQL", "type": "Tecnología", "description": "Sistema de gestión de bases de datos relacionales." },
+  { "id": 14, "name": "JSON", "type": "Formato", "description": "Formato liviano para representar datos estructurados." },
+  { "id": 15, "name": "Figma", "type": "Herramienta", "description": "Diseño colaborativo y prototipado de interfaces." },
+  { "id": 16, "name": "Responsive Design", "type": "Concepto", "description": "Adaptación de una interfaz a distintos tamaños de pantalla." },
+  { "id": 17, "name": "Accesibilidad web", "type": "Concepto", "description": "Prácticas para hacer los contenidos utilizables por más personas." },
+  { "id": 18, "name": "Web Audio API", "type": "Tecnología", "description": "API del navegador para sintetizar y procesar sonido." },
+  { "id": 19, "name": "LocalStorage", "type": "Tecnología", "description": "Almacenamiento local persistente disponible desde el navegador." },
+  { "id": 20, "name": "Vercel", "type": "Herramienta", "description": "Plataforma para publicar aplicaciones web." }
+]
