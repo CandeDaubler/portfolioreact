@@ -6,7 +6,7 @@ import './styles/home.css';
 import './styles/profile.css';
 import './styles/bitacora.css';
 import './styles/responsive.css';
-import './app.css';
+import './App.css';
 import App from './App.jsx';
 
 createRoot(document.getElementById('root')).render(
